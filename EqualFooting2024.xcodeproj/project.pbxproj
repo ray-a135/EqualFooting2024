@@ -11,6 +11,12 @@
 		BDA34DB92C59555900F9D640 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA34DB82C59555900F9D640 /* ContentView.swift */; };
 		BDA34DBB2C59555B00F9D640 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDA34DBA2C59555B00F9D640 /* Assets.xcassets */; };
 		BDA34DBE2C59555B00F9D640 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDA34DBD2C59555B00F9D640 /* Preview Assets.xcassets */; };
+		BDA34DC52C59557800F9D640 /* infoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA34DC42C59557800F9D640 /* infoPage.swift */; };
+		BDA34DC72C59558400F9D640 /* survey.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA34DC62C59558400F9D640 /* survey.swift */; };
+		BDA34DC92C59558F00F9D640 /* search.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA34DC82C59558F00F9D640 /* search.swift */; };
+		BDA34DCB2C59559B00F9D640 /* Sat.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA34DCA2C59559B00F9D640 /* Sat.swift */; };
+		BDA34DCD2C5955A800F9D640 /* commonapp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA34DCC2C5955A800F9D640 /* commonapp.swift */; };
+		BDA34DCF2C5955C000F9D640 /* college.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA34DCE2C5955C000F9D640 /* college.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		BDA34DB82C59555900F9D640 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDA34DBA2C59555B00F9D640 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDA34DBD2C59555B00F9D640 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDA34DC42C59557800F9D640 /* infoPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = infoPage.swift; sourceTree = "<group>"; };
+		BDA34DC62C59558400F9D640 /* survey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = survey.swift; sourceTree = "<group>"; };
+		BDA34DC82C59558F00F9D640 /* search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = search.swift; sourceTree = "<group>"; };
+		BDA34DCA2C59559B00F9D640 /* Sat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sat.swift; sourceTree = "<group>"; };
+		BDA34DCC2C5955A800F9D640 /* commonapp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = commonapp.swift; sourceTree = "<group>"; };
+		BDA34DCE2C5955C000F9D640 /* college.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = college.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +65,12 @@
 			children = (
 				BDA34DB62C59555900F9D640 /* EqualFooting2024App.swift */,
 				BDA34DB82C59555900F9D640 /* ContentView.swift */,
+				BDA34DC42C59557800F9D640 /* infoPage.swift */,
+				BDA34DC62C59558400F9D640 /* survey.swift */,
+				BDA34DC82C59558F00F9D640 /* search.swift */,
+				BDA34DCA2C59559B00F9D640 /* Sat.swift */,
+				BDA34DCC2C5955A800F9D640 /* commonapp.swift */,
+				BDA34DCE2C5955C000F9D640 /* college.swift */,
 				BDA34DBA2C59555B00F9D640 /* Assets.xcassets */,
 				BDA34DBC2C59555B00F9D640 /* Preview Content */,
 			);
@@ -137,7 +155,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDA34DCB2C59559B00F9D640 /* Sat.swift in Sources */,
+				BDA34DCD2C5955A800F9D640 /* commonapp.swift in Sources */,
 				BDA34DB92C59555900F9D640 /* ContentView.swift in Sources */,
+				BDA34DCF2C5955C000F9D640 /* college.swift in Sources */,
+				BDA34DC72C59558400F9D640 /* survey.swift in Sources */,
+				BDA34DC92C59558F00F9D640 /* search.swift in Sources */,
+				BDA34DC52C59557800F9D640 /* infoPage.swift in Sources */,
 				BDA34DB72C59555900F9D640 /* EqualFooting2024App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
